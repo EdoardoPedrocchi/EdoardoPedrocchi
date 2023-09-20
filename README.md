@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm here to grow<br>📈 finance and economics enthusiast<br>👔 working in PWC<br>🎯 Goals: master data science and Machine learning for finance</p>
+<p align="left">✨ I'm here to grow<br>📈 economics and management student <br>👔 working in PWC<br>🎯 Goals: master data science and Machine learning for finance</p>
 
 ###
 
